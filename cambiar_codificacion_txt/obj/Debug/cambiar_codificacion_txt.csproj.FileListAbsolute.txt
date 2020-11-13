@@ -1,0 +1,7 @@
+D:\GitHub\cambiar_codificacion\cambiar_codificacion_txt\cambiar_codificacion_txt\bin\Debug\cambiar_codificacion_txt.exe.config
+D:\GitHub\cambiar_codificacion\cambiar_codificacion_txt\cambiar_codificacion_txt\bin\Debug\cambiar_codificacion_txt.exe
+D:\GitHub\cambiar_codificacion\cambiar_codificacion_txt\cambiar_codificacion_txt\bin\Debug\cambiar_codificacion_txt.pdb
+D:\GitHub\cambiar_codificacion\cambiar_codificacion_txt\cambiar_codificacion_txt\obj\Debug\cambiar_codificacion_txt.csproj.CoreCompileInputs.cache
+D:\GitHub\cambiar_codificacion\cambiar_codificacion_txt\cambiar_codificacion_txt\obj\Debug\cambiar_codificacion_txt.exe
+D:\GitHub\cambiar_codificacion\cambiar_codificacion_txt\cambiar_codificacion_txt\obj\Debug\cambiar_codificacion_txt.pdb
+D:\GitHub\cambiar_codificacion\cambiar_codificacion_txt\cambiar_codificacion_txt\obj\Debug\cambiar_codificacion_txt.csprojAssemblyReference.cache
